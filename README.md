@@ -1,5 +1,9 @@
 # NBA-Jump-Balls
 
+Posted on [reddit/r/nba](https://www.reddit.com/r/nba/comments/dhandf/oc_elo_system_to_determine_who_are_the_best_at/), making it to the top of the [front page](https://imgur.com/xzsnckE) at one point!
+
+
+
 ## Purpose
 
 I created this analysis to measure how well different NBA players perform in jump ball situations. This was inspired by a prop bet I see on various sportsbook, which is "Team to Score First". I felt some of these lines were mispriced, and if I could measure how likely a player was to win a jump ball (and therefore who gets the ball first), I could estimate how likely their team is to score first.
